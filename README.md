@@ -1,7 +1,20 @@
-## Hi there 👋
+##  Mahnoor Aslam
+## About 
+
+I'm a Data Science student at PUCIT. Currently in third semester. Nowadays I am learning basics of ML
+.
+## Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+## Team Projects
+-**Tic-Tac-Toe Game (https://github.com/mahnraslam/Tic-Tac-Toe)**:  Devoloped the advanced version of Tic Tac game with 3 boards using OOP  .
+-**ECG plotter (A Private repo)** : Work with team for setting of ECG grapg using Matplotlib.
+-**Different Games using python modules**
 
 <!--
-**mahnraslam/mahnraslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mahnraslam/mahnraslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
