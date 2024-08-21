@@ -1,6 +1,5 @@
- <p align="center">
-  <strong>Mahnoor Aslam</strong>
-</p>
+ <h1 align="center"> <b>Mahnoor Aslam</b>
+</h1>
 
 ## About
 I'm a Data Science student at PUCIT, currently in my third semester. Nowadays, I am learning the basics of Machine Learning (ML).
