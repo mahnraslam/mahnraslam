@@ -11,9 +11,7 @@ I'm a Data Science student at PUCIT, currently in my third semester. Nowadays, I
 
 ## Projects
 - **[Digital & Smart Learning](https://github.com/your-repo-link)**: A static website where I upload material from my FB group, Digital & Smart Learning, created in the first semester.
-- **[Tic-Tac-Toe Game](https://github.com/mahnraslam/Tic-Tac-Toe)**: Developed an advanced version of the Tic-Tac-Toe game with 3 boards using OOP and the Tkinter module.
-- **[ECG Plotter (Private Repo)](https://github.com/your-private-repo-link)**: Worked with a team to set up ECG graphing using Matplotlib.
-- **Different Games using Python modules**: Various games created with different Python modules.
+- **[Tic-Tac-Toe Game](https://github.com/mahnraslam/Tic-Tac-Toe)**: Developed an advanced version of the Tic-Tac-Toe game with 3 boards using OOP and the Tkinter module in second semester. 
 
 
 
