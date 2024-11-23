@@ -3,6 +3,7 @@
 
 ## About
 I'm a Data Science student at PUCIT, currently in my third semester. 
+EdX courses are something I enjoy exploring regularly.
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
