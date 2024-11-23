@@ -2,8 +2,8 @@
 </h1>
 
 ## About
-<h3>I'm a Data Science student at PUCIT, currently in my third semester. <br>
-I really enjoy taking courses on edX.</h3>
+<h5>I'm a Data Science student at PUCIT, currently in my third semester. <br>
+I really enjoy taking courses on edX.</h5>
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
