@@ -1,5 +1,4 @@
- <h1 align="center"> <b>Mahnoor Aslam</b>
-</h1>
+ 
 
 ## About 
 I’m currently in fourth semester of Data Science at PUCIT, where I’m learning and growing in the world of technology.<br> 
