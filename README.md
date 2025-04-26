@@ -13,7 +13,7 @@ If you want to collaborate with tech fellows Here is the link to join my FB grou
 ## Projects
 - **[Digital & Smart Learning](https://github.com/your-repo-link)**: A static website where I upload material from my FB group, Digital & Smart Learning, created in the first semester.
 - **[Tic-Tac-Toe Game](https://github.com/mahnraslam/Tic-Tac-Toe)**:
-  ### (Player Vs Computer/Player)
+  (Player Vs Computer/Player)
 -  Developed an advanced version of the Tic-Tac-Toe game with 3 boards using OOP and the Tkinter module in second semester.
 
 <!--
