@@ -11,6 +11,9 @@ If you want to collaborate with tech fellows Here is the link to join my FB grou
 ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?style=flat-square&logo=Matplotlib&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
 
 
 ## Projects
