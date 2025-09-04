@@ -21,7 +21,7 @@ If you want to collaborate with tech fellows Here is the link to join my FB grou
 - **[Tic-Tac-Toe Game](https://github.com/mahnraslam/Tic-Tac-Toe)**:
   (Player Vs Computer/Player)
 -  Developed an advanced version of the Tic-Tac-Toe game with 3 boards using OOP and the Tkinter module in second semester.
-- **[Tic-Tac-Toe Game](https://github.com/mahnraslam/EDA_on_NASA_astronauts_data)**
+- **[EDA on NASA Astronauts Data](https://github.com/mahnraslam/EDA_on_NASA_astronauts_data)**
 -  **Group project : Orange Line Train Management Syatem**
 
 <!--
