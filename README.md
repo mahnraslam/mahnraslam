@@ -1,8 +1,7 @@
  
 
 ## About 
-I’m currently in fifth  semester of Data Science at PUCIT, where I’m learning and growing in the world of technology.<br> 
-If you want to collaborate with tech fellows Here is the link to join my FB group. [Digital & Smart Learning](https://www.facebook.com/groups/digitalandsmartlearning)
+I’m currently in fifth  semester of Data Science at PUCIT, where I’m learning and growing in the world of technology.<br>  
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
