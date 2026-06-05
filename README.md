@@ -3,12 +3,13 @@ I'm a final year BS Data Science student at PUCIT, building AI-powered systems a
 
 ---
 
-## 📂 Projects
+## Academic Group Projects
+- **[ConstructOS](https://github.com/mahnraslam/ConstructOS)**: An offline-capable construction intelligence system that ingests blueprints and specifications, extracts structured facts, auto-detects conflicts between documents, generates RFIs from those conflicts, and answers site queries with cited references — built for poor-connectivity construction environments.
 - **[Digital Twin Meeting Bot](https://github.com/mahnraslam/digital-twin)**: An AI-powered digital twin that joins live video meetings (Google Meet, Zoom, Teams) autonomously — listens via real-time transcription, retrieves context from a personal RAG knowledge base, generates replies using Gemini LLM, and speaks in the user's cloned voice via ElevenLabs within seconds.
 - **[Building a Data Pipeline for Sales Data Loading and Business Analysis](https://github.com/mahnraslam/DataWarehouse)**
 - **[Orange Line Train Management System](https://github.com/Neeha2005/Orange-Line-Management-Project)**
-- **[Tic-Tac-Toe Game](https://github.com/mahnraslam/Tic-Tac-Toe)**: (Player Vs Computer/Player) Developed an advanced version of the Tic-Tac-Toe game with 3 boards using OOP and the Tkinter module in second semester.
 - **[EDA on NASA Astronauts Data](https://github.com/mahnraslam/EDA_on_NASA_astronauts_data)**
+- **[Tic-Tac-Toe Game](https://github.com/mahnraslam/Tic-Tac-Toe)**: (Player Vs Computer/Player) Developed an advanced version of the Tic-Tac-Toe game with 3 boards using OOP and the Tkinter module in second semester.
 - **[Digital & Smart Learning](https://github.com/your-repo-link)**: A static website where I upload material from my FB group, Digital & Smart Learning, created in the first semester.
 
 ---
