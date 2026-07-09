@@ -26,15 +26,14 @@ FastAPI + ChromaDB system for offline construction sites. Ingests blueprints and
 Live-meeting AI agent for Google Meet/Zoom/Teams. Real-time transcription, RAG retrieval from a personal knowledge base, Gemini-generated replies, and voice injection via ElevenLabs cloning — sub-5-second end-to-end latency via the Recall.ai API.
 
 **AlgoTutor & Dietary Meal Planner** — Individual · Deployed on Hugging Face Spaces
-Two live AI agent apps: a CLRS-based algorithms Q&A bot and a health-condition-aware meal planner. Handled prompt engineering, agent orchestration, and full Streamlit UI and deployment.
-> *(add repo/Space link)*
+Two live AI agent apps: a CLRS-based algorithms Q&A bot and a health-condition-aware meal planner. Handled prompt engineering, agent orchestration, and full Streamlit UI and deployment. 
 
 **[Sales Data Pipeline — ETL & BI](https://github.com/mahnraslam/DataWarehouse)** — Group
 End-to-end ETL pipeline feeding a star-schema fact table and SSAS cube (5 hierarchies), with 4 Power BI dashboards for drill-through executive reporting.
 
-**Online Doctor Appointment System** — Individual
+[**Online Doctor Appointment System**](https://github.com/mahnraslam/online-doctor-appointment) — Individual
 Full-stack platform with JWT-authenticated RESTful APIs for doctor search and booking. Built the authentication module, session management, RBAC, and backend service logic independently.
-> *(add repo link)*
+
 
 <details>
 <summary><b>Other coursework projects</b></summary>
@@ -68,12 +67,6 @@ Built a React.js-based online doctor appointment system, integrating frontend co
 **Data & BI:** PostgreSQL, Power BI, SSIS, SSAS
 
 **Web & Tools:** React, FastAPI, Express.js, Git, Postman
-
----
-
-## Certifications
-
-React — Meta/Coursera (2025) · Programming with JavaScript — Meta/Coursera (2025) · SQL for Data Science — UC Davis/Coursera (2024)
 
 ---
 
