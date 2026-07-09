@@ -70,8 +70,3 @@ Built a React.js-based online doctor appointment system, integrating frontend co
 
 ---
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahnraslam&show_icons=true&theme=default&hide_border=true)
-
-</div>
