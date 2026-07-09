@@ -48,16 +48,6 @@ Full-stack platform with JWT-authenticated RESTful APIs for doctor search and bo
 
 ---
 
-## Experience
-
-**Teaching Assistant — Probability & Statistics, Linear Algebra**, PUCIT, Lahore (Jan 2024 – 2025)
-Supported 100+ undergraduates through office hours and lectures on statistical inference, probability distributions, and linear systems. Evaluated 50+ quizzes and assignments.
-
-**Frontend & API Integration Intern**, Remote (Aug – Sep 2025)
-Built a React.js-based online doctor appointment system, integrating frontend components with backend REST APIs, state management, and database-connected features.
-
----
-
 ## Tech Stack
 
 **Languages:** Python, SQL, JavaScript, Java, C++
