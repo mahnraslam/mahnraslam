@@ -1,46 +1,84 @@
-## About
-I'm a final year BS Data Science student at PUCIT, building AI-powered systems at the intersection of NLP, LLMs, and real-world data engineering.
+<h1 align="center">Mahnoor Aslam</h1>
+<p align="center">
+Final-year BS Data Science student building AI systems at the intersection of LLMs, RAG, and data engineering.
+</p>
+
+<p align="center">
+  <a href="mailto:mahnraslam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/mahnraslam">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/mahnraslam">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  </a>
+</p>
 
 ---
 
-## Academic Group Projects
-- **[ConstructOS](https://github.com/mahnraslam/ConstructOS)**: An offline-capable construction intelligence system that ingests blueprints and specifications, extracts structured facts, auto-detects conflicts between documents, generates RFIs from those conflicts, and answers site queries with cited references — built for poor-connectivity construction environments.
-- **[Digital Twin Meeting Bot](https://github.com/mahnraslam/digital-twin)**: An AI-powered digital twin that joins live video meetings (Google Meet, Zoom, Teams) autonomously — listens via real-time transcription, retrieves context from a personal RAG knowledge base, generates replies using Gemini LLM, and speaks in the user's cloned voice via ElevenLabs within seconds.
-- **[Building a Data Pipeline for Sales Data Loading and Business Analysis](https://github.com/mahnraslam/DataWarehouse)**
-- **[Orange Line Train Management System](https://github.com/Neeha2005/Orange-Line-Management-Project)**
-- **[EDA on NASA Astronauts Data](https://github.com/mahnraslam/EDA_on_NASA_astronauts_data)**
-- **[Tic-Tac-Toe Game](https://github.com/mahnraslam/Tic-Tac-Toe)**: (Player Vs Computer/Player) Developed an advanced version of the Tic-Tac-Toe game with 3 boards using OOP and the Tkinter module in second semester.
-- **[Digital & Smart Learning](https://github.com/your-repo-link)**: A static website where I upload material from my FB group, Digital & Smart Learning, created in the first semester.
+## Projects
+
+**[ConstructOS](https://github.com/mahnraslam/ConstructOS)** — Group
+FastAPI + ChromaDB system for offline construction sites. Ingests blueprints and specs, detects cross-document conflicts with severity ratings, auto-generates RFIs, and answers site queries via RAG with Gemini/Groq routing.
+
+**[AI Digital Twin Meeting Bot](https://github.com/mahnraslam/digital-twin)** — Group
+Live-meeting AI agent for Google Meet/Zoom/Teams. Real-time transcription, RAG retrieval from a personal knowledge base, Gemini-generated replies, and voice injection via ElevenLabs cloning — sub-5-second end-to-end latency via the Recall.ai API.
+
+**AlgoTutor & Dietary Meal Planner** — Individual · Deployed on Hugging Face Spaces
+Two live AI agent apps: a CLRS-based algorithms Q&A bot and a health-condition-aware meal planner. Handled prompt engineering, agent orchestration, and full Streamlit UI and deployment.
+> *(add repo/Space link)*
+
+**[Sales Data Pipeline — ETL & BI](https://github.com/mahnraslam/DataWarehouse)** — Group
+End-to-end ETL pipeline feeding a star-schema fact table and SSAS cube (5 hierarchies), with 4 Power BI dashboards for drill-through executive reporting.
+
+**Online Doctor Appointment System** — Individual
+Full-stack platform with JWT-authenticated RESTful APIs for doctor search and booking. Built the authentication module, session management, RBAC, and backend service logic independently.
+> *(add repo link)*
+
+<details>
+<summary><b>Other coursework projects</b></summary>
+<br>
+
+- [Orange Line Train Management System](https://github.com/Neeha2005/Orange-Line-Management-Project) — Group project
+- [EDA on NASA Astronauts Data](https://github.com/mahnraslam/EDA_on_NASA_astronauts_data) — Exploratory data analysis
+- [Tic-Tac-Toe Game](https://github.com/mahnraslam/Tic-Tac-Toe) — OOP + Tkinter, 3-board variant
+- [Digital & Smart Learning](https://github.com/mahnraslam/Digital-smart-learning) — Static site for course material
+
+</details>
 
 ---
 
-## 🛠 Tech Stack
+## Experience
+
+**Teaching Assistant — Probability & Statistics, Linear Algebra**, PUCIT, Lahore (Jan 2024 – 2025)
+Supported 100+ undergraduates through office hours and lectures on statistical inference, probability distributions, and linear systems. Evaluated 50+ quizzes and assignments.
+
+**Frontend & API Integration Intern**, Remote (Aug – Sep 2025)
+Built a React.js-based online doctor appointment system, integrating frontend components with backend REST APIs, state management, and database-connected features.
+
+---
+
+## Tech Stack
+
+**Languages:** Python, SQL, JavaScript, Java, C++
+
+**AI / ML:** Gemini, GPT-4, Groq, ChromaDB, Hugging Face, Streamlit, PyTorch, scikit-learn, Pandas, NumPy
+
+**Data & BI:** PostgreSQL, Power BI, SSIS, SSAS
+
+**Web & Tools:** React, FastAPI, Express.js, Git, Postman
+
+---
+
+## Certifications
+
+React — Meta/Coursera (2025) · Programming with JavaScript — Meta/Coursera (2025) · SQL for Data Science — UC Davis/Coursera (2024)
+
+---
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Data & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Web & Tools
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Java Servlets](https://img.shields.io/badge/Java%20Servlets-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### BI & Engineering
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![SSAS](https://img.shields.io/badge/SSAS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahnraslam&show_icons=true&theme=default&hide_border=true)
 
 </div>
