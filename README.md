@@ -1,6 +1,6 @@
 <h1 align="center">Mahnoor Aslam</h1>
 <p align="center">
-Final-year BS Data Science student building AI systems at the intersection of LLMs, RAG, and data engineering.
+I am a Final-year BS Data Science student building AI systems at the intersection of LLMs, RAG, and data engineering.
 </p>
 
 <p align="center">
