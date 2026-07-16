@@ -47,16 +47,5 @@ Full-stack platform with JWT-authenticated RESTful APIs for doctor search and bo
 </details>
 
 ---
-
-## Tech Stack
-
-**Languages:** Python, SQL, JavaScript, Java, C++
-
-**AI / ML:** Gemini, GPT-4, Groq, ChromaDB, Hugging Face, Streamlit, PyTorch, scikit-learn, Pandas, NumPy
-
-**Data & BI:** PostgreSQL, Power BI, SSIS, SSAS
-
-**Web & Tools:** React, FastAPI, Express.js, Git, Postman
-
----
+ 
 
