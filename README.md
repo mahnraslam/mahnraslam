@@ -1,9 +1,7 @@
 <h1 align="center">Mahnoor Aslam</h1>
+  
 <p align="center">
-I am a Final-year BS Data Science student building AI systems at the intersection of LLMs, RAG, and data engineering.
-</p>
-
-<p align="center">
+  Contacts: 
   <a href="mailto:mahnraslam@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
