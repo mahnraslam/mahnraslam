@@ -1,17 +1,4 @@
 <h1 align="center">Mahnoor Aslam</h1>
-## Contact Me  
-<p>
-  <a href="mailto:mahnraslam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mahnraslam">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://huggingface.co/mahnraslam">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  </a>
-</p>
-
 ---
 
 ## Projects
