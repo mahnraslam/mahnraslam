@@ -1,5 +1,4 @@
 <h1 align="center">Mahnoor Aslam</h1>
----
 
 ## Projects
 
