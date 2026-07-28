@@ -18,7 +18,7 @@ End-to-end ETL pipeline feeding a star-schema fact table and SSAS cube (5 hierar
 - AlgoTutor & Dietary Meal Planner (Deployed on Hugging Face Spaces)
 - [Orange Line Train Management System](https://github.com/Neeha2005/Orange-Line-Management-Project)
 - [EDA on NASA Astronauts Data](https://github.com/mahnraslam/EDA_on_NASA_astronauts_data) — Exploratory data analysis
-- [Tic-Tac-Toe Game](https://github.com/mahnraslam/Tic-Tac-Toe) — OOP + Tkinter, 3-board variant
+- [Tic-Tac-Toe Game](https://github.com/mahnraslam/Tic-Tac-Toe) — OOP + Tkinter, 3-board variant, (Computer Vs Human)
 - [Digital & Smart Learning](https://github.com/mahnraslam/Digital-smart-learning) — Static site for course material
 
 </details>
