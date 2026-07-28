@@ -13,11 +13,9 @@ End-to-end ETL pipeline feeding a star-schema fact table and SSAS cube (5 hierar
  
 
 <details>
-<summary><b>Other coursework projects</b></summary>
+<summary><b>Other Projects</b></summary>
 <br>
--- AlgoTutor & Dietary Meal Planner · Deployed on Hugging Face Spaces
-Two live AI agent apps: a CLRS-based algorithms Q&A bot and a health-condition-aware meal planner. Handled prompt engineering, agent orchestration, and full Streamlit UI and deployment. 
-
+- AlgoTutor & Dietary Meal Planner(Deployed on Hugging Face Spaces)
 - [Orange Line Train Management System](https://github.com/Neeha2005/Orange-Line-Management-Project) 
 - [EDA on NASA Astronauts Data](https://github.com/mahnraslam/EDA_on_NASA_astronauts_data) — Exploratory data analysis
 - [Tic-Tac-Toe Game](https://github.com/mahnraslam/Tic-Tac-Toe) — OOP + Tkinter, 3-board variant
