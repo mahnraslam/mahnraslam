@@ -1,5 +1,3 @@
-<h1 align="center">Mahnoor Aslam</h1>
-
 ## Projects
 
 **[ConstructOS](https://github.com/mahnraslam/ConstructOS)** 
